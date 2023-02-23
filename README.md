@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2364F74E&center=true&vCenter=true&width=440&height=45&lines=Hi%2C+I'm+Lakmal+Sulochana;Software+Engineer+Student;And+an+Open+Source+Supporter">
@@ -10,13 +10,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently education on **[IJSE(Institute of Software Engineering)](https://www.ijse.lk/)**
+- 🔭 I’m currently education on **[IJSE(Institute of Software Engineering)](https://www.ijse.lk/)**  
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 Trainee Softwware Engineer at **[Hotcat Technologies](https://www.hotcat.lk/)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **lakmalsulochana789@gmail.com**
+- 📫 How to reach me **lakmalsulochana.lk@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
